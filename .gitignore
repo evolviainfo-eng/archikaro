@@ -1,0 +1,11 @@
+fs-server.js
+.claude/
+.DS_Store
+assets/raw/
+assets/sheet_*.jpg
+assets/gallery_urls.txt
+assets/logo_profile.jpg
+assets/profile_photo.jpg
+assets/logo_icon_zoom.png
+assets/shots/
+assets/img_unused/
